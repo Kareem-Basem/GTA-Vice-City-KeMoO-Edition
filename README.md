@@ -4,14 +4,18 @@
 
 ### Version 3 · The 1980s vibe, reborn with a modern twist
 
-![Version](https://img.shields.io/badge/Version-3.0-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-3.0-ff4fa3?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows%207%2F8%2F10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Storage](https://img.shields.io/badge/Size-6%20GB-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
+<!-- 📸 Replace with your own banner from the /images folder -->
+<!-- <img src="images/banner.png" alt="GTA Vice City KeMoO Edition" width="100%"> -->
+
 **An immersive mod experience that refreshes the graphics, gameplay and audio of Grand Theft Auto: Vice City while preserving its unmistakable 1980s spirit.**
 
-[Features](#-features) · [Requirements](#-system-requirements) · [Tips](#-tips-for-optimal-performance) · [Modding](#-learn-to-mod) · [Contact](#-contact)
+[Features](#-features) · [Installation](#-installation-guide) · [Requirements](#-system-requirements) · [Tips](#-tips-for-optimal-performance) · [Guides](#-guides--documents) · [Modding](#-learn-to-mod) · [Contact](#-contact)
 
 </div>
 
@@ -21,7 +25,7 @@
 
 Welcome to the **KeMoO Edition (V. 3)** of *Grand Theft Auto: Vice City*!
 
-This edition brings a modern twist to Vice City's classic **1980s vibe**, enhancing graphics, gameplay and audio for a more immersive experience while respecting Rockstar's rights.
+This edition brings a modern twist to Vice City's classic **1980s vibe**, enhancing graphics, gameplay and audio for a more immersive experience, while fully respecting Rockstar's rights.
 
 ---
 
@@ -30,10 +34,24 @@ This edition brings a modern twist to Vice City's classic **1980s vibe**, enhanc
 | | Category | What's new |
 |---|---|---|
 | 🖼️ | **Graphics Enhancement** | Updated graphics and in-game textures for a more realistic look that fits Vice City's 1980s setting. |
-| 🚗 | **Vehicles & Weapons** | 1980s-style vehicle models plus redesigned weapons with visual and mechanical improvements. |
+| 🚗 | **Vehicles & Weapons** | **1980s-style vehicle models** plus redesigned weapons with visual and mechanical improvements. |
 | 🔊 | **Audio Enhancements** | Reworked soundtrack and environmental sounds for a richer, more immersive atmosphere. |
-| ⏳ | **Loading Screens** | Updated loading screens to complement the refreshed visuals. |
+| ⏳ | **Loading Screens** | Updated loading screens that complement the refreshed visuals. |
 | 🏃 | **Movement & Game Engine** | Refined character and vehicle movement, with engine adjustments aimed at stable gameplay. |
+
+---
+
+## 📸 Screenshots
+
+<!-- Put your screenshots in the /images folder, then uncomment and fix the file names -->
+<!--
+<p align="center">
+  <img src="images/screenshot1.png" width="48%">
+  <img src="images/screenshot2.png" width="48%">
+</p>
+-->
+
+> _Screenshots coming soon._
 
 ---
 
@@ -45,18 +63,18 @@ This edition brings a modern twist to Vice City's classic **1980s vibe**, enhanc
 1. **Back up** your original GTA: Vice City installation.
 2. **Extract** the KeMoO Edition files with **WinRAR**.
 3. **Copy** the extracted mod files into the game's main directory, replacing files only when the mod's instructions require it.
-4. Start the game **as administrator** and use **Compatibility Mode** only if necessary.
+4. **Start the game as administrator**, and use **Compatibility Mode** only if necessary.
 
 ---
 
 ## ⚡ Tips for Optimal Performance
 
 - ✅ Keep an **original backup** before installing the mod.
-- ✅ Re-extract the files with WinRAR if you encounter EXE issues.
-- ✅ Update graphics drivers for the best performance.
-- ✅ Avoid changing core game files beyond the mod's installation instructions.
-- ✅ Verify that your system meets the recommended specifications.
-- 📄 Read the included **[Vice City tips guide](./Tticks%20for%20GTA%20VC.pdf)** for additional tweaks.
+- ✅ If you hit EXE issues, **re-extract the files** with WinRAR.
+- ✅ **Update your graphics drivers** for the best performance.
+- ✅ **Avoid changing core game files** beyond the mod's installation instructions.
+- ✅ Verify that your system meets the **recommended specifications**.
+- 📄 Read the included **[Vice City tricks guide](./Tticks%20for%20GTA%20VC.pdf)** for additional tweaks.
 
 ---
 
@@ -69,6 +87,16 @@ This edition brings a modern twist to Vice City's classic **1980s vibe**, enhanc
 | **RAM** | 8 GB | 16 GB |
 | **Graphics** | NVIDIA GeForce GT 710 or equivalent | NVIDIA GeForce GTX 1050 or higher |
 | **Storage** | 6 GB free space | 6 GB free space |
+
+---
+
+## 📚 Guides & Documents
+
+| Document | Link |
+|---|---|
+| 🇬🇧 GTA Vice City Guide (English) | [Open PDF](./GTA%20Vice%20City%20(EN).pdf) |
+| 🇪🇬 دليل GTA Vice City (العربي) | [Open PDF](./GTA%20Vice%20City%20(AR).pdf) |
+| 🎯 Tricks for GTA VC | [Open PDF](./Tticks%20for%20GTA%20VC.pdf) |
 
 ---
 
@@ -87,13 +115,15 @@ All rights belong to their respective original creators and publishers. This pro
 
 ## 📄 License
 
-This project is licensed under the **MIT License**. See [LICENSE](./LICENSE) for details.
+This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
 
 ---
 
 ## 📬 Contact
 
-For support, feedback or collaboration, contact [**Kareem Basem**](https://github.com/Kareem-Basem).
+For support, feedback or collaboration, reach out at **[karemalwy1@gmail.com](mailto:karemalwy1@gmail.com)**.
+
+Created with ❤️ by [**Kareem Basem**](https://github.com/Kareem-Basem)
 
 ---
 

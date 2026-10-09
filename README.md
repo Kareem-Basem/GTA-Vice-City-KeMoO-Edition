@@ -10,8 +10,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
-<!-- 📸 Replace with your own banner from the /images folder -->
-<!-- <img src="images/banner.png" alt="GTA Vice City KeMoO Edition" width="100%"> -->
+<img src="images/0.png" alt="GTA Vice City – KeMoO Edition cover" width="100%">
 
 **An immersive mod experience that refreshes the graphics, gameplay and audio of Grand Theft Auto: Vice City while preserving its unmistakable 1980s spirit.**
 
@@ -43,15 +42,34 @@ This edition brings a modern twist to Vice City's classic **1980s vibe**, enhanc
 
 ## 📸 Screenshots
 
-<!-- Put your screenshots in the /images folder, then uncomment and fix the file names -->
-<!--
 <p align="center">
-  <img src="images/screenshot1.png" width="48%">
-  <img src="images/screenshot2.png" width="48%">
+  <img src="images/1.png" alt="GTA Vice City gameplay screenshot 1" width="49%">
+  <img src="images/2.png" alt="GTA Vice City gameplay screenshot 2" width="49%">
 </p>
--->
 
-> _Screenshots coming soon._
+<details>
+<summary>View more screenshots</summary>
+
+<p align="center">
+  <img src="images/3.png" alt="GTA Vice City gameplay screenshot 3" width="49%">
+  <img src="images/4.png" alt="GTA Vice City gameplay screenshot 4" width="49%">
+</p>
+<p align="center">
+  <img src="images/5.png" alt="GTA Vice City gameplay screenshot 5" width="49%">
+  <img src="images/6.png" alt="GTA Vice City gameplay screenshot 6" width="49%">
+</p>
+<p align="center">
+  <img src="images/7.png" alt="GTA Vice City gameplay screenshot 7" width="49%">
+  <img src="images/8.png" alt="GTA Vice City gameplay screenshot 8" width="49%">
+</p>
+<p align="center">
+  <img src="images/9.png" alt="GTA Vice City gameplay screenshot 9" width="49%">
+  <img src="images/10.png" alt="GTA Vice City gameplay screenshot 10" width="49%">
+</p>
+
+</details>
+
+Browse all screenshots in the [images folder](./images).
 
 ---
 
